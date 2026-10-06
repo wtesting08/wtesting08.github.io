@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wtesting08.github.io/sitemap.xml
+Sitemap: https://wtesting08.github.io/chengye-notes-b/sitemap.xml
